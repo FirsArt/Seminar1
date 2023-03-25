@@ -7,8 +7,7 @@ while(startNumber <= number)
  Console.Write(startNumber + ", ");
  startNumber ++;
     }
-
-    
+   
 /*
 Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 
