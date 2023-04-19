@@ -1,0 +1,15 @@
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\bin\Debug\net6.0\Program52.exe
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\bin\Debug\net6.0\Program52.deps.json
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\bin\Debug\net6.0\Program52.runtimeconfig.json
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\bin\Debug\net6.0\Program52.dll
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\bin\Debug\net6.0\Program52.pdb
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\obj\Debug\net6.0\Program52.csproj.AssemblyReference.cache
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\obj\Debug\net6.0\Program52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\obj\Debug\net6.0\Program52.AssemblyInfoInputs.cache
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\obj\Debug\net6.0\Program52.AssemblyInfo.cs
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\obj\Debug\net6.0\Program52.csproj.CoreCompileInputs.cache
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\obj\Debug\net6.0\Program52.dll
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\obj\Debug\net6.0\refint\Program52.dll
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\obj\Debug\net6.0\Program52.pdb
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\obj\Debug\net6.0\Program52.genruntimeconfig.cache
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar7\Program52\obj\Debug\net6.0\ref\Program52.dll
