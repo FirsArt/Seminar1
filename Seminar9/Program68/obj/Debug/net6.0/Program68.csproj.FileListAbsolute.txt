@@ -1,0 +1,15 @@
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\bin\Debug\net6.0\Program68.exe
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\bin\Debug\net6.0\Program68.deps.json
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\bin\Debug\net6.0\Program68.runtimeconfig.json
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\bin\Debug\net6.0\Program68.dll
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\bin\Debug\net6.0\Program68.pdb
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\obj\Debug\net6.0\Program68.csproj.AssemblyReference.cache
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\obj\Debug\net6.0\Program68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\obj\Debug\net6.0\Program68.AssemblyInfoInputs.cache
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\obj\Debug\net6.0\Program68.AssemblyInfo.cs
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\obj\Debug\net6.0\Program68.csproj.CoreCompileInputs.cache
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\obj\Debug\net6.0\Program68.dll
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\obj\Debug\net6.0\refint\Program68.dll
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\obj\Debug\net6.0\Program68.pdb
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\obj\Debug\net6.0\Program68.genruntimeconfig.cache
+C:\Users\hillm\OneDrive\Рабочий стол\Учеба\Seminar9\Program68\obj\Debug\net6.0\ref\Program68.dll
